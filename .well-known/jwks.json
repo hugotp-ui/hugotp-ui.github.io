@@ -7,6 +7,14 @@
       "kty": "RSA",
       "n": "zbxDqBtq5YiGWOnexAovID7nYaEqS1PmS-9hXgVLwujdNgGpdHvc91hmXEME-qX4UxAY6aIK_Z05vxr7CHj_ianJpPaLUddtke1ihXTMTdw0p4EYGjknbiY0Jez-c2A_1GUuzbeKjdQ1CGX62MGenxDY3fZAvN2gFjvHyFRwRT-BAtJppQH9lEn1J95x8MDQoUb7ojGdSMbmIfimr166SJTZfYIf3q7icQaDWaE1ERO8wn4tnaNlneBh3NvjDEc5HK-DIziZTWaKLP0fbsScXF_pbRbvGJLGwgEdUkIZAlQfJkgNEqG9-hGsLzvdyTex1N2Q1Ei1wLbAQgazOcMrHw",
       "use": "sig"
+    },
+    {
+      "alg": "EdDSA",
+      "crv": "Ed25519",
+      "kid": "WnF2RaPFMc3Jtlca-RuWLYWZ5xD9BciQcmLVlkRTn1Y",
+      "kty": "OKP",
+      "use": "sig",
+      "x": "Ci73rA_tkO0HNWkqKFhcN5cm4-PKG2LSHgsF_6ah50Y"
     }
   ]
 }

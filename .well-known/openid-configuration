@@ -1,7 +1,7 @@
 {
   "issuer": "https://hugotp-ui.github.io",
   "jwks_uri": "https://hugotp-ui.github.io/.well-known/jwks.json",
-  "id_token_signing_alg_values_supported": ["RS256"],
+  "id_token_signing_alg_values_supported": ["RS256", "EdDSA"],
   "subject_types_supported": ["public"],
   "response_types_supported": ["id_token"],
   "token_endpoint_auth_methods_supported": ["private_key_jwt"]

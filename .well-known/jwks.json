@@ -1,12 +1,12 @@
 {
   "keys": [
     {
-      "alg": "EdDSA",
-      "crv": "Ed25519",
-      "kid": "HK4Jn00en1nNrpA-vMJEv7RvsZ4PO9BpDvAyfujDkMw",
-      "kty": "OKP",
-      "use": "sig",
-      "x": "I0GXw2sVAk680B3m8aNw_uuOPtpWf0dj_OPxh8JeE5c"
+      "alg": "RS256",
+      "e": "AQAB",
+      "kid": "VXg0Qo-A5L1EYSJE55dSwd5ssA3K3C04tdXbNWOfbPM",
+      "kty": "RSA",
+      "n": "zbxDqBtq5YiGWOnexAovID7nYaEqS1PmS-9hXgVLwujdNgGpdHvc91hmXEME-qX4UxAY6aIK_Z05vxr7CHj_ianJpPaLUddtke1ihXTMTdw0p4EYGjknbiY0Jez-c2A_1GUuzbeKjdQ1CGX62MGenxDY3fZAvN2gFjvHyFRwRT-BAtJppQH9lEn1J95x8MDQoUb7ojGdSMbmIfimr166SJTZfYIf3q7icQaDWaE1ERO8wn4tnaNlneBh3NvjDEc5HK-DIziZTWaKLP0fbsScXF_pbRbvGJLGwgEdUkIZAlQfJkgNEqG9-hGsLzvdyTex1N2Q1Ei1wLbAQgazOcMrHw",
+      "use": "sig"
     }
   ]
 }

@@ -15,6 +15,15 @@
       "kty": "OKP",
       "use": "sig",
       "x": "Ci73rA_tkO0HNWkqKFhcN5cm4-PKG2LSHgsF_6ah50Y"
+    },
+    {
+      "alg": "ES256",
+      "crv": "P-256",
+      "kid": "DeCN4gZMTyL_RRsriYzsjjN90vwswODL4-iSRSzN0gc",
+      "kty": "EC",
+      "use": "sig",
+      "x": "sqW0XW__xnDJfqiXAO2Ppz0NkeqYDFHMmWbJaIWfqG4",
+      "y": "Kug0cjY4R7qJdciaGuk4MX1c6O2WWjj_4AsnvUTyXdU"
     }
   ]
 }
